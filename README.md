@@ -4,6 +4,7 @@
 
 <ol>
   🌱 i'm currently learning javascript, python
+  🌱 I want to be a full-stack developer
 <!--
 **dabi-glitch/dabi-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
