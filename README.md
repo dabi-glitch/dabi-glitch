@@ -4,7 +4,7 @@
 <br>
 <ol>
   
-  🏫 Gunsan University<br>
+  🏫 Kunsan University<br>
   <br>
   🌈 I'm double majoring in trade and telecommunications engineering.  
   <br>
