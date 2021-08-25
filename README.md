@@ -3,6 +3,11 @@
 ### Hello, I'm a developing novice developer.
 <br>
 <ol>
+  
+  🏫 Gunsan University
+  <br>
+  🌈 I'm double majoring in trade and telecommunications engineering.  
+  <br>
   🌱 i'm currently learning javascript, python<br>
   <br>
   🌱 I want to be a full-stack developer
