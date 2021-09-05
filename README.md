@@ -12,11 +12,10 @@
   <br>
   🌱 I want to be a full-stack developer
   
-api/top-langs?dabi-glitch=anuraghazra
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/dabi-glitch=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/dabi-glitchanuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+  
+  
 <!--
 **dabi-glitch/dabi-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
