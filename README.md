@@ -18,8 +18,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabi-glitch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dabi-glitch)](https://github.com/anuraghazra/github-readme-stats)
-
   
 <!--
 **dabi-glitch/dabi-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
