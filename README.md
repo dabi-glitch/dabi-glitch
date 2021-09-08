@@ -1,6 +1,6 @@
 <h1>Yun Dabin</h1>
 
-### Hello, I'm a developing novice developer.
+### Hello, I'm a developing novice developer
 <br>
 <ol>
   
