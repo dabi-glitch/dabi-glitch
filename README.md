@@ -1,35 +1,35 @@
-<h1>Yun Dabin</h1>
+ ![header](https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
 
-### Hello, I'm a developing novice developer
-<br>
-<ol>
-  
-  🏫 Kunsan University<br>
-  <br>
-  🌈 I'm double majoring in trade and telecommunications engineering.  
-  <br>
-  🌱 i'm currently learning javascript, python<br>
-  <br>
-  🌱 I want to be a full-stack developer
- 
-</ol>
+<div align="center">
+👻Studying👻
+</div>
+</br>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+</div>
 
-  <hr>
-  
+<div align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+</div>
+
+</br>
+</br>
+
+
+<div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabi-glitch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=dabi-glitch&show_icons=true">
+</br>
+</br>
 
-  
-<!--
-**dabi-glitch/dabi-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hongmi117)](https://solved.ac/hongmi117)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
