@@ -1,5 +1,12 @@
  ![header](https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
-
+  
+<div align="center">
+ 안녕하세요!☺️</br>
+ 열심히 개발 공부를 하고 있는 윤다빈입니다.</br>
+ 최근에는 코딩테스트 및 flutter 학습을 진행하고 있어요!</br>
+ </div>
+ </br>
+ </br>
 <div align="center">
 👻Studying👻
 </div>
